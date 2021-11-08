@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transaksyon Tracer", "Transaksyon Tracer\Transaksyon Tracer.csproj", "{BC1F3487-747A-49A7-B7AD-41F19C47F6ED}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TransaksyonTracerSetup", "TransaksyonTracerSetup\TransaksyonTracerSetup.vdproj", "{4E8C27DD-11DF-4AD8-8A7F-D94D6B177139}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC1F3487-747A-49A7-B7AD-41F19C47F6ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1F3487-747A-49A7-B7AD-41F19C47F6ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1F3487-747A-49A7-B7AD-41F19C47F6ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1F3487-747A-49A7-B7AD-41F19C47F6ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E8C27DD-11DF-4AD8-8A7F-D94D6B177139}.Debug|Any CPU.ActiveCfg = Debug
+		{4E8C27DD-11DF-4AD8-8A7F-D94D6B177139}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45AFCE23-63AA-47C4-802E-DD5D1829F80F}
+	EndGlobalSection
+EndGlobal
